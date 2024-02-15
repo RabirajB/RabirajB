@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rabiraj
 - 👀 I’m interested in Deep Learning and Natural Language Processing
-- 🌱 I’m currently learning and doing research on Transformers
-- 💞️ I’m looking to collaborate on interesting projects on text generation, bias in NLP 
+- 🌱 I’m currently learning and doing research on Hate Speech
+- 💞️ I’m looking to collaborate on interesting projects on synthetic text generation, instruction tuning and data efficient methods for Hate Speech Detection
 - 📫 How to reach me? LinkedIn and Twitter
 
 <!---
